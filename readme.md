@@ -1,6 +1,6 @@
 # RmlUi - The HTML/CSS User Interface Library Evolved
 
-![RmlUi](https://github.com/mikke89/RmlUiDoc/raw/cc01edd834b003df6c649967bfd552bb0acc3d1e/assets/rmlui.png)
+~~http://<span>librocket.com</span>~~ (!!! malicious domain !!!, last checked 23/feb/2020)
 
 RmlUi - now with added boosters taking control of the rocket, targeting *your* games and applications.
 
